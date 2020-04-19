@@ -76,7 +76,7 @@ kullandım. Konum-zaman grafiği 2.dereceden bir denklem iken, hız-zaman grafi�
 # Bölüm 3 (Hala Beni Öldürmeyi Düşünmüyorsan)
 1) Bu deneyde ölçüm hatalarım var. Zamandaki ölçüm hatam sizce kaç ms (mili saniye) nedir? Konumdaki ölçüm hatam sizce kaç cm'dir? *Konumdaki ölçüm hatası 2cm oynayabilir. Zamandaki ölçüm hatası ise 300ms olabilir.*
  
-2) Acaba hiç grafik çizmeden sürtünme katsayısını bulabilir miydim?  (Cevap: Evet). *Wnet = m/2*(Vson^2 - Vilk^2) formülünden F değerini bulur, F değerinden de F-Fsür= m*a formülünden Fsür değerini bulur ve Fsür= k.N formülünden kinetik sürtünme kat sayısını bulurdum. 2.bölüm 3.soruda sürtünme kat sayısını bu şekilde buldum.*
+2) Acaba hiç grafik çizmeden sürtünme katsayısını bulabilir miydim?  (Cevap: Evet). Wnet = m/2*(Vson^2 - Vilk^2) formülünden F değerini bulur, F değerinden de F-Fsür= m*a formülünden Fsür değerini bulur ve Fsür= k.N formülünden kinetik sürtünme kat sayısını bulurdum. 2.bölüm 3.soruda sürtünme kat sayısını bu şekilde buldum.
 Yardım:
 * Düzgün ivmelenen bir cisim için alınan yol formülü x = (ilk hız+ son hız)/2*t, burdan cismin ilk hızını bulunuz. 
 * Daha sonra iş-kinetik enerji teorimini kullanarak sürtünme kuvvetini bulun. Sürtünme kuvvetinden, kinetik sürtünme katsayısını bulunuz.
